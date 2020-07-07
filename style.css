@@ -46,7 +46,7 @@ background-image: linear-gradient(to right, orange 20%, yellow 200%);
 .card-footer{
     background-color: white;
     border:none;
-    margin-left: 50px;
+   
 }
 .card{
     box-shadow: 5px 5px 10px lightgray;
