@@ -1,0 +1,91 @@
+.navbar-light .navbar-nav .nav-link {
+    color: black;
+}
+.bg-light {
+    background: rgb(255, 255, 255)!important;
+}
+.btn-btn{
+    color: white;
+    background-color: black;
+    border: none;
+    padding: 15px 20px;
+    border-radius: 10px;
+}
+.btn-btn:hover{
+    background-color: white;
+    color: black;
+    border: 2px solid black;
+    transition: 2s;
+}
+.row p{
+    text-align: justify;
+}
+.carousel-indicators{
+    margin-right: 35%;
+}
+.carousel-indicators .active{
+width: 48px;
+height: 10px;
+margin: 10px;
+background-image: linear-gradient(to right, orange 20%, yellow 200%);
+}
+.carousel-indicators li {
+    width: 15px;
+    height: 10px;
+    margin: 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: gray;
+}
+.bd-highlight a{
+    color: orange;
+}
+.cards{
+    margin-top: 100px;
+}
+.card-footer{
+    background-color: white;
+    border:none;
+    margin-left: 50px;
+}
+.card{
+    box-shadow: 5px 5px 10px lightgray;
+    border: none;
+    padding-left: 20px;
+    margin-top: 80px;
+}
+span{
+    margin-left: 60px;
+}
+.align{
+    text-align: center;
+}
+hr{
+    width: 90px;
+    height: 10px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    background-color: orange;
+}
+.card h3{
+    text-align: center;
+}
+.footer{
+    margin-top: 150px;
+}
+.raw{
+    margin-top: 150px;
+}
+#cat2{
+    margin-bottom: 150px;
+}
+.cat3 img{
+    width: 100%;;
+}
+#cat2pro{
+    margin-top: 20px;
+}
+.raw h4{
+    margin-left: 40px;
+    margin-top: 30px;
+}
